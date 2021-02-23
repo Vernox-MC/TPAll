@@ -1,0 +1,13 @@
+name: TPAll
+version: 1.0.0
+author: VernoxMC
+api: ["1.0.0"]
+main: VernoxMC.TPAll.Main
+commands:
+  tpall:
+    description: Teleport Everyone to you
+    usage: /tpall
+    permission: tpall.command
+permissions:
+  tpall.command:
+    default: op
