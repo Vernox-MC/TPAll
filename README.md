@@ -1,1 +1,4 @@
 # TPAll
+
+# Commands
+/tpall
